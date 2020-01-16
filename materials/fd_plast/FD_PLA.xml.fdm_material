@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura">
+  <metadata>
+    <name>
+      <brand>FD Plast</brand>
+      <material>PLA</material>
+      <color>Generic</color>
+      <label>PLA</label>
+    </name>
+    <GUID>c374323c-3e1e-418d-97ae-9731e95a26c1</GUID>
+    <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+    <version>7</version>
+    <description>Плотность: 1,25 г/см³  
+Темп. экструзии: 190 - 225 °С
+Тепл. изделия: 55 °C
+Темп. стола: 40 °C
+Усадка: 0,1 - 0,3%
+Высокая жесткость. Модуль упругости при изгибе: 3,8 ГПа
+Растворитель: дихлорметан
+Гигроскопичность: Хранить в герметичной упаковке с силикагелем. В случае хранения пластика без упаковки необходимо произвести сушку прутка в течение 4 часов при 60 °C
+Стоимость: 748р. за 1кг 
+
+https://www.sopytka.ru/pdf/Print-options-for-Cura-PLA.pdf
+
+Ретракт
+Минимальное перемещение (мм): 1,5
+Включить обход: все
+Мин. выдавливание перед откатом (мм): 0,02
+Подъем по Z после отката (мм): 0.0
+Скорость (мм/с): 50
+Расстояние (мм): 4,7
+
+Охлаждение
+Минимальное время на слой (сек): 5
+Полный запуск вентилятора на высоте (мм): 0,5
+Минимальная скорость вентилятора (%): 100
+Максимальная скорость вентилятора (%): 100
+Минимальная скорость печати (мм/с): 10
+Подъем головки при охлаждении: вкл.
+
+Скорость и температура
+Температура печати (°С): 195
+Температура стола (°С): 40
+Скорость печати (мм/с): 70
+Скорость перемещения (мм/с): 150
+Скорость печати первого слоя (мм/с): 35
+Скорость заполнения (мм/с): 0
+Верхняя/нижняя скорость печати (мм/с): 30
+Скорость печати внешней границы (мм/с): 30
+Скорость печати внутренней границы (мм/с): 0
+</description>
+    <color_code>#ffaa00</color_code>
+  </metadata>
+  <properties>
+    <density>1.25</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="heated bed temperature">40.0</setting>
+    <setting key="retraction speed">50.0</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="standby temperature">180</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="retraction amount">5</setting>
+    <setting key="print temperature">200</setting>
+  </settings>
+</fdmmaterial>

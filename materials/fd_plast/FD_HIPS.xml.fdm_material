@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura">
+  <metadata>
+    <name>
+      <brand>FD Plast</brand>
+      <material>HIPS</material>
+      <color>Generic</color>
+      <label>HIPS</label>
+    </name>
+    <GUID>a468d86a-220c-47eb-99a5-bbb47e514eb0</GUID>
+    <adhesion_info />
+    <version>2</version>
+    <description>Плотность: 1,04 г/см³  
+Темп. экструзии: 250 - 270 °С
+Тепл. изделия: 80 °C
+Темп. стола: 110 - 120 °C
+Скорость печати: 25 - 40 мм/с
+Усадка: 
+Модуль упругости при изгибе: 2,0 ГПа
+Растворитель: цитрусовый эфир D-лимонен
+Стоимость: 468р. за 1кг 
+
+https://www.sopytka.ru/pdf/Print-options-for-Cura-HIPS.pdf
+
+Ретракт
+Минимальное перемещение (мм): 1,5
+Включить обход: все
+Мин. выдавливание перед откатом (мм): 0,02
+Подъем по Z после отката (мм): 0.0
+Скорость (мм/с): 50
+Расстояние (мм): 4,7
+
+Охлаждение
+Минимальное время на слой (сек): 10
+Полный запуск вентилятора на высоте (мм): 0,5
+Минимальная скорость вентилятора (%): 25
+Максимальная скорость вентилятора (%): 29
+Минимальная скорость печати (мм/с): 10
+Подъем головки при охлаждении: вкл.
+
+Скорость и температура
+Температура печати (°С): 260
+Температура стола (°С): 100
+Скорость печати (мм/с): 40
+Скорость перемещения (мм/с): 150
+Скорость печати первого слоя (мм/с): 35
+Скорость заполнения (мм/с): 35
+Верхняя/нижняя скорость печати (мм/с): 25
+Скорость печати внешней границы (мм/с): 25
+Скорость печати внутренней границы (мм/с): 0
+</description>
+    <color_code>#55ffff</color_code>
+  </metadata>
+  <properties>
+    <density>1.04</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="heated bed temperature">100.0</setting>
+    <setting key="retraction speed">50.0</setting>
+    <setting key="standby temperature">160</setting>
+    <setting key="retraction amount">5</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="print temperature">260.0</setting>
+  </settings>
+</fdmmaterial>

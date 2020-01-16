@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura">
+  <metadata>
+    <name>
+      <brand>FD Plast</brand>
+      <material>PETG</material>
+      <color>Generic</color>
+      <label>PETG</label>
+    </name>
+    <GUID>69386c85-5b6c-421a-bec5-aeb1fb33f060</GUID>
+    <adhesion_info>Set your prime speed to a low value (8mm/sec)</adhesion_info>
+    <version>3</version>
+    <description>Плотность: 1,27 г/см³  
+Темп. экструзии: 220 - 240 °С
+Кристаллизация: 85 °C
+Темп. стола: 70 °C
+Скорость печати: до 50 мм/с
+Усадка: 
+Модуль упругости при изгибе: 
+Растворитель: 
+Гигроскопичность: долговечен и не подвергается воздействию влаги
+Стоимость: 748р. за 1кг 
+
+Ретракт
+
+Охлаждение
+Крупные детали - без обдува, чтобы исключить появление "паутинок".
+Мелкие детали и первые несколько слоев с обдувом.
+
+Скорость и температура
+Температура печати (°С): 240 - 250
+Температура стола (°С): 70 - 75
+Скорость печати (мм/с): 50
+</description>
+    <color_code>#ff5500</color_code>
+  </metadata>
+  <properties>
+    <density>1.27</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="heated bed temperature">70</setting>
+    <setting key="print cooling">0.0</setting>
+    <setting key="retraction speed">50.0</setting>
+    <setting key="standby temperature">120.0</setting>
+    <setting key="retraction amount">5</setting>
+    <setting key="print temperature">240.0</setting>
+  </settings>
+</fdmmaterial>

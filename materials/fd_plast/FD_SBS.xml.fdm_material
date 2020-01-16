@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura">
+  <metadata>
+    <name>
+      <brand>FD Plast</brand>
+      <material>SBS</material>
+      <color>Generic</color>
+      <label>SBS</label>
+    </name>
+    <GUID>f642e022-040f-4b51-b1ad-946573964679</GUID>
+    <adhesion_info />
+    <version>7</version>
+    <description>Плотность: 1,24 г/см³  
+Темп. экструзии: 225 - 240 °С
+Тепл. изделия: 70 °C
+Темп. стола: 50 - 80 °С
+Модуль упругости при изгибе: 1,5 ГПа
+Усадка: 0,2 - 1,1%
+Растворитель: сольвент (нефрас-А), ксилол, d-лимонен
+Гигроскопичность: крайне низкая - 0,06%
+Постобработка: химическая, механическая
+
+https://www.sopytka.ru/pdf/Print-options-for-Cura-SBS.pdf
+
+Ретракт
+Минимальное перемещение (мм): 1,5
+Включить обход: все
+Мин. выдавливание перед откатом (мм): 0,02
+Подъем по Z после отката (мм): 0.0
+Скорость (мм/с): 30
+Расстояние (мм): 0,8
+
+Охлаждение
+Минимальное время на слой (сек): 12
+Полный запуск вентилятора на высоте (мм): 0,5
+Минимальная скорость вентилятора (%): 35
+Максимальная скорость вентилятора (%): 95
+Минимальная скорость печати (мм/с): 10
+Подъем головки при охлаждении: вкл.
+
+Скорость и температура
+Температура печати (°С): 235
+Температура стола (°С): 85
+Скорость печати (мм/с): 70
+Скорость перемещения (мм/с): 150
+Скорость печати первого слоя (мм/с): 35
+Скорость заполнения (мм/с): 0
+Верхняя/нижняя скорость печати (мм/с): 35
+Скорость печати внешней границы (мм/с): 40
+Скорость печати внутренней границы (мм/с): 0
+</description>
+    <color_code>#aaff00</color_code>
+  </metadata>
+  <properties>
+    <density>1.24</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="spool_weight">1000</setting>
+    <setting key="spool_cost">678</setting>
+    <setting key="heated bed temperature">85.0</setting>
+    <setting key="retraction speed">30.0</setting>
+    <setting key="standby temperature">175.0</setting>
+    <setting key="retraction amount">0.8</setting>
+    <setting key="print cooling">35.0</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="print temperature">235.0</setting>
+  </settings>
+</fdmmaterial>
