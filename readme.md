@@ -30,4 +30,3 @@ ____________________
 2) Запустить программу
 3) Добавление принтера Flying Bear Ghost 4S в Cura:
 Add Printer > Add a non-networked printer > Flying Bear > Flying Bear Ghost 4S
-
