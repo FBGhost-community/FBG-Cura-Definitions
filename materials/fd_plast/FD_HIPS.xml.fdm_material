@@ -54,13 +54,14 @@ https://www.sopytka.ru/pdf/Print-options-for-Cura-HIPS.pdf
   <properties>
     <density>1.04</density>
     <diameter>1.75</diameter>
+    <weight>1000</weight>
+    <cost>468</cost>
   </properties>
   <settings>
-    <setting key="heated bed temperature">100.0</setting>
-    <setting key="retraction speed">50.0</setting>
-    <setting key="standby temperature">160</setting>
+    <setting key="print temperature">260</setting>
+    <setting key="heated bed temperature">100</setting>
+    <setting key="print cooling">100</setting>
     <setting key="retraction amount">5</setting>
-    <setting key="print cooling">100.0</setting>
-    <setting key="print temperature">260.0</setting>
+    <setting key="retraction speed">30</setting>
   </settings>
 </fdmmaterial>

@@ -6,10 +6,8 @@
 		"visible": true,
 		"author": "ODUCCEU",
 
-		"quality_definition": "flyingbear_base",
+		"quality_definition": "flyingbear_base"
 
-		"platform": "ultimaker3_platform.obj",
-		"platform_texture": "flying_bear.png"
 	},
 
 	"overrides": {
