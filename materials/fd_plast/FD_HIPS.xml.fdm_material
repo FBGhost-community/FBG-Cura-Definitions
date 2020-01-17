@@ -60,7 +60,7 @@ https://www.sopytka.ru/pdf/Print-options-for-Cura-HIPS.pdf
   <settings>
     <setting key="print temperature">260</setting>
     <setting key="heated bed temperature">100</setting>
-    <setting key="print cooling">100</setting>
+    <setting key="print cooling">30</setting>
     <setting key="retraction amount">5</setting>
     <setting key="retraction speed">30</setting>
   </settings>
