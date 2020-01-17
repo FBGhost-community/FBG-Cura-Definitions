@@ -6,6 +6,9 @@
 		"visible": true,
 		"author": "ODUCCEU",
 
+		"platform": "FBG_4S.obj",
+		"platform_texture": "flyingbear_bed.png",
+
 		"quality_definition": "flyingbear_base"
 
 	},
