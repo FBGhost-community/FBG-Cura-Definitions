@@ -33,7 +33,7 @@
 ----
 ### Инструкция:
 
-* Скачайте последний выпуск [ОБЫЧНОЙ](https://drive.google.com/open?id=13govLWyr8Txo5nbOs2NAE4m9y-cj8SGW) или [ПОЛНОЙ](https://drive.google.com/open?id=13govLWyr8Txo5nbOs2NAE4m9y-cj8SGW) версии
+* Скачайте последний выпуск [ОБЫЧНОЙ](https://drive.google.com/open?id=13govLWyr8Txo5nbOs2NAE4m9y-cj8SGW) или [ПОЛНОЙ](https://drive.google.com/open?id=17S1zDlG4TW7I69NR5O05RSkkdTHsj6PY) версии
     
 * Экспортируйте нужные вам профили печати из меню программы Cura
 
