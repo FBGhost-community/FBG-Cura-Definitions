@@ -1,5 +1,5 @@
 {
-	"name": "Flying Bear Ghost 4S",
+	"name": "Flying Bear Ghost 4S Extended",
 	"version": 2,
 	"inherits": "flyingbear_base",   
 	"metadata": {
@@ -9,15 +9,12 @@
 		"platform": "FBG_4S.obj",
 		"platform_texture": "flyingbear_bed.png",
 
-		"has_variants": false,
-		"has_machine_quality": false,
-
 		"quality_definition": "flyingbear_base"
 
 	},
 
 	"overrides": {
-		"machine_name": 		{ "default_value": "Flying Bear Ghost 4S" },
+		"machine_name": 		{ "default_value": "Flying Bear Ghost 4S Extended" },
 		"machine_width": 		{ "default_value": 255 },
 		"machine_depth": 		{ "default_value": 210 },
 		"machine_height": 		{ "default_value": 210 },
